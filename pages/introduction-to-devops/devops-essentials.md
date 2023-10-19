@@ -35,4 +35,4 @@ In summary, DevOps encapsulates a **holistic approach**, intertwining culture, m
 
 ---
 
-*Note: This summary captures the essence of the video, emphasizing the cultural shift, the three dimensions of DevOps, and the challenges and necessities in embracing this transformative approach in application development.*
+_Note: This summary captures the essence of the video, emphasizing the cultural shift, the three dimensions of DevOps, and the challenges and necessities in embracing this transformative approach in application development._

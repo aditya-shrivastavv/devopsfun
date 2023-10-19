@@ -31,4 +31,4 @@ DevOps isn't a magic tool that can be purchased; it's a transformative journey t
 
 ---
 
-*Note: This summary captures the essence of the video, emphasizing the importance of DevOps culture and its impact on major companies. It showcases the shift from traditional methods to agile, innovative approaches, highlighting the role of trust, communication, and collaboration in this transformative process.*
+_Note: This summary captures the essence of the video, emphasizing the importance of DevOps culture and its impact on major companies. It showcases the shift from traditional methods to agile, innovative approaches, highlighting the role of trust, communication, and collaboration in this transformative process._

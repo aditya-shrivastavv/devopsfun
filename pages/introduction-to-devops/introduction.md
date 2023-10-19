@@ -38,4 +38,4 @@ Join me in this transformative journey. Watch the videos, take the quizzes, and 
 
 ---
 
-*Remember: Every failure is a learning opportunity. Embrace change, collaborate, and become DevOps!*
+_Remember: Every failure is a learning opportunity. Embrace change, collaborate, and become DevOps!_

@@ -33,4 +33,4 @@ In essence, DevOps is a transformative journey, where **culture, collaboration, 
 
 ---
 
-*Note: This summary captures the essence of the video, emphasizing the collaborative and cultural aspects of DevOps. It focuses on the transformative nature of DevOps, debunking common misconceptions and highlighting the need for a unified approach within organizations.*
+_Note: This summary captures the essence of the video, emphasizing the collaborative and cultural aspects of DevOps. It focuses on the transformative nature of DevOps, debunking common misconceptions and highlighting the need for a unified approach within organizations._

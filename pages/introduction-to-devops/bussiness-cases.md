@@ -24,4 +24,4 @@ In this video, you've discovered that **innovation stems from inventive business
 
 ---
 
-*Embrace innovation, rethink your business model, and thrive in the face of disruption!* 🚀
+_Embrace innovation, rethink your business model, and thrive in the face of disruption!_ 🚀
