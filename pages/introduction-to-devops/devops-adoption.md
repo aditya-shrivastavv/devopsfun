@@ -1,4 +1,4 @@
-# DevOps Culture and Major Companies: Embracing Change 🚀
+# DevOps Culture: Embracing Change 🚀
 
 After watching the video, it's evident that **DevOps** is not just a methodology; it's a **cultural shift** within companies. This mindset necessitates unlearning traditional practices and adopting new strategies to achieve efficiency and innovation in the tech industry.
 

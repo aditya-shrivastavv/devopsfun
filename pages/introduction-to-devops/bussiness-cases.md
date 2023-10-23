@@ -1,4 +1,4 @@
-# The Impact of Disruption: Embracing DevOps 🌐
+# Business Cases: Embracing DevOps 🌐
 
 In this enlightening video, you’ve gained insights into the ever-changing landscape of technology and disruption. Let's break down the key takeaways:
 

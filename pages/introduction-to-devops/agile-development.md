@@ -1,4 +1,4 @@
-# Evolution from Extreme Programming to Agile: Embracing Collaboration and Adaptability 🌀
+# Evolution from Extreme Programming to Agile 🌀
 
 In the late 1990s, software development was transforming, and pioneers like Kent Beck introduced Extreme Programming (XP), marking the genesis of Agile methodologies. This evolution prioritized collaboration, rapid feedback, and adaptive planning, setting the stage for a more responsive approach to software development.
 
