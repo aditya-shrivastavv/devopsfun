@@ -1,8 +1,8 @@
 {
   "introduction": "Introduction",
-  "bussiness-cases": "Bussiness Cases",
+  "business-cases": "Business Cases",
   "devops-adoption": "DevOps Adoption",
-  "defination-of-devops": "Defination of DevOps",
+  "definition-of-devops": "Definition of DevOps",
   "devops-essentials": "DevOps Essentials",
   "problems-it-solves": "Problems it solves",
   "agile-development": "Agile Development",
@@ -11,5 +11,8 @@
   "social-coding-principles": "Social Coding Principles",
   "git-repository-guidelines": "Git Repository Guidelines",
   "working-in-small-batches": "Working in Small Batches",
-  "minimum-viable-product": "Minimum Viable Product"
+  "minimum-viable-product": "Minimum Viable Product",
+  "test-driven-development": "Test Driven Development",
+  "behavior-driven-development": "Behavior Driven Development",
+  "cloud-native-microservices": "Cloud Native Microservices"
 }
